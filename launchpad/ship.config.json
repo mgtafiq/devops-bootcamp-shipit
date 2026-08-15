@@ -1,6 +1,6 @@
 {
-  "shipName": "Nebula Runner",
-  "color": "#22d3ee",
-  "shipModel": "fighter",
+  "shipName": "Nebula Runner custom",
+  "color": "#163bb5",
+  "shipModel": "hauler",
   "emblem": "comet"
 }
